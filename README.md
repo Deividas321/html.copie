@@ -46,7 +46,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
     ```sh
-    git clone https://github.com/front-end-by-rimantas/50-grupe-labirintas.git
+    git clone https://github.com/Deividas456/labirintas.git
     ```
 2. Install NPM packages
     ```sh
